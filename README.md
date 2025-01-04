@@ -19,3 +19,4 @@ Design and develop an interactive Tableau dashboard to visualize and predict loa
 - Perform Some Calculations with Calculated Field.
 - At Last Import them into Dashboard.
 # Dashboard
+![Loan Prediction Dashboard](https://github.com/user-attachments/assets/53ab7178-53ea-4798-b5c6-c5eebade25e8)
