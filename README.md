@@ -4,7 +4,6 @@ Design and develop an interactive Tableau dashboard to visualize and predict loa
 
 # Dataset Used
 - <a href="https://github.com/Poojitha2509/Loan-Approval-Prediction-In-Tableau/blob/main/loan_approval_dataset.csv">Loan Approval Dataset</a>
-
 # KPIs 
 - Average Income Amount: Average amount of Income of the Customers.
 - Average Loan Amount: Average amount of loans approved.
@@ -13,5 +12,5 @@ Design and develop an interactive Tableau dashboard to visualize and predict loa
 - Commercial Assets Amount: Amount of Commercial Assets.
 - Residential Assets Amount: Amount of Residential Assets.
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/Poojitha2509/Loan-Approval-Prediction-In-Tableau/blob/main/Loan%20Prediction%20Dashboard.png">View Dashboard</a>
 
