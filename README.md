@@ -1,2 +1,3 @@
-# Loan-Approval-Prediction-In-Tableau
-The loan approval dataset is a collection of financial records and associated information used to determine the eligibility of individuals or organizations for obtaining loans from a lending institution. It includes various factors such as cibil score, income, employment status, loan term, loan amount, assets value, and loan status. 
+# Loan-Approval-Prediction (Interactive Dashboard In Tableau)
+## Project Objective
+Design and develop an interactive Tableau dashboard to visualize and predict loan approvals, leveraging historical data.
