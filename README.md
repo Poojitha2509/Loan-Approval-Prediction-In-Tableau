@@ -13,4 +13,9 @@ Design and develop an interactive Tableau dashboard to visualize and predict loa
 - Residential Assets Amount: Amount of Residential Assets.
 
 - Dashboard Interaction <a href="https://github.com/Poojitha2509/Loan-Approval-Prediction-In-Tableau/blob/main/Loan%20Prediction%20Dashboard.png">View Dashboard</a>
-
+# Process
+- Import the Dataset.
+- Create KPIs and Visualization Charts.
+- Perform Some Calculations with Calculated Field.
+- At Last Import them into Dashboard.
+# Dashboard
