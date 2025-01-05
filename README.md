@@ -6,8 +6,8 @@ Design and develop an interactive Tableau dashboard to visualize and predict loa
 - <a href="https://github.com/Poojitha2509/Loan-Approval-Prediction-In-Tableau/blob/main/loan_approval_dataset.csv">Loan Approval Dataset</a>
 # Process
 - Import the Dataset.
-- Created Cards and Visualization Charts.
-- Perform Some Calculations with Calculated Field.
+- Created Visualization Charts.
+- Performed Some Calculations with Calculated Field.
 - At Last Import them into Dashboard.
 # Dashboard
 ![Loan Prediction Dashboard](https://github.com/user-attachments/assets/53ab7178-53ea-4798-b5c6-c5eebade25e8)
